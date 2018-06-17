@@ -81,6 +81,7 @@ namespace Woof.DeploymentEx {
                 return b.ToString();
             }
 
+            /// <summary>
             /// Performs implict <see cref="ToString"/> conversion.
             /// </summary>
             /// <param name="args">Arguments object.</param>
